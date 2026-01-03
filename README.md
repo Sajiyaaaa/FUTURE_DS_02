@@ -1,6 +1,6 @@
 # 📈 Social Media Campaign Performance Tracker
 
-# About the Task
+## About the Task
 
 In this task, I have work with exported CSV data from Facebook Ads Manager. Goal is to analyze campaign performance metrics and build an interactive dashboard that helps businesses answer questions like:
 
@@ -12,7 +12,7 @@ In this task, I have work with exported CSV data from Facebook Ads Manager. Goal
 
 - What can we improve for the next campaign?
 
-# What I have Learn
+## What I have Learn
 
 - Marketing Analytics Fundamentals:
 
